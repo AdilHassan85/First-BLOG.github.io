@@ -151,7 +151,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "/First-BLOG.github.io"
+baseurl: "/First-BLOG"
 
 # ------------ The following options are not recommended to be modified ------------------
 
