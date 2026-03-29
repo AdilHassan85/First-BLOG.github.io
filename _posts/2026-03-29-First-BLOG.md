@@ -14,7 +14,7 @@ The biggest shock comes when your imagination meets real life. We often expect u
 
 ## 2. The Dream vs. The Scene: The Landscape
 I was expecting a lush green campus with a peaceful environment for studying. Instead, I arrived to find a barren and dry landscape. The greenery I had dreamed of was nowhere to be found.
-
+![Desktop View](/assets/img/mm.jpg)
 
 ## 3. Hostel Struggles: The First Hurdle
 Hostel life sounds exciting in stories, but the struggle started with never-ending registration queues. When I finally got my room after hours of waiting, the condition was poor and far below my expectations.
