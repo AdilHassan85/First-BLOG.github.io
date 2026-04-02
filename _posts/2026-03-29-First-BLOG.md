@@ -16,8 +16,8 @@ The biggest shock comes when your imagination meets real life. We often expect u
 I was expecting a lush green campus with a peaceful environment for studying. Instead, I arrived to find a barren and dry landscape. The greenery I had dreamed of was nowhere to be found.
 ![Desktop View](/assets/img/mm.jpg)
 
-## 3. Hostel Struggles: The First Hurdle
-Hostel life sounds exciting in stories, but the struggle started with never-ending registration queues. When I finally got my room after hours of waiting, the condition was poor and far below my expectations.
+## 3. Computer Lab Senerio
+Its my personal point of view .In the biegning of my first programming fundamental lab I don't know how to operate a computer . I face many diffuculties . But thing is im  a little bit expert in opereting computer. I'm also a little bit expert in writing a python codes
 
 ## 4. The First Impression: Survival and Grit
 Within the first few days, I realized that university life isn't just about fancy buildings or hanging out. It is about "Survival." It requires grit, hard work, and the strength to adapt to difficult situations.
