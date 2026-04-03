@@ -14,6 +14,7 @@ The most significant transition occurs when your ideas meet the reality of code.
 * **The Illusion of Syntax:** I initially expected programming to be a simple process of memorizing rules and writing easy scripts. However, I quickly discovered that it demands high-level discipline and constant engagement with complex problem-solving.
 * **The Grit of Debugging:** I realized that coding isn't just about building "fancy apps"; it is about “Survival.” It requires true grit to face bugs every day, hard work to optimize code, and the mental strength to adapt to frustrating logical errors until they are solved.
 * **Algorithmic Growth:** Although the initial learning curve felt harsh, this pressure is what builds a programmer's mindset. Embracing these technical challenges has transformed me into a more focused, logical, and determined developer.
+![Desktop View](/First-BLOG/assets/img/syntax.jpg)
 
 
 ### 2. The Environmental Gap: Dream Landscape vs. Technical Focus
