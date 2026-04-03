@@ -16,7 +16,7 @@ The most significant transition occurs when your ideas meet the reality of code.
 * **Algorithmic Growth:** Although the initial learning curve felt harsh, this pressure is what builds a programmer's mindset. Embracing these technical challenges has transformed me into a more focused, logical, and determined developer.
 
 
-![Desktop View](syntex.jpg)
+![Desktop View](https://raw.githubusercontent.com/AdilHassan85/First-BLOG/main/_posts/syntex.jpg)
 
 ### 2. The Environmental Gap: Dream Landscape vs. Technical Focus
 We often dream of a lush, peaceful campus environment to inspire our studies, but sometimes the physical surroundings are much more modest and demanding.
