@@ -18,7 +18,7 @@ The most significant transition occurs when your ideas meet the reality of code.
 
 ![Desktop View](https://raw.githubusercontent.com/AdilHassan85/First-BLOG/main/_posts/syntex.jpg)
 
-### 2. The Environmental Gap: Dream Landscape vs. Technical Focus
+## 2. The Environmental Gap: Dream Landscape vs. Technical Focus
 We often dream of a lush, peaceful campus environment to inspire our studies, but sometimes the physical surroundings are much more modest and demanding.
 
 * *Accepting the Landscape:* I arrived expecting a lush green campus with a serene atmosphere, but instead, I found a barren and dry landscape. This was a significant visual contrast to the "dream" I had envisioned.
