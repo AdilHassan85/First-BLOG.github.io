@@ -7,7 +7,7 @@ order: 4
 
 # Hi, I'm Adil Hasan:
 
-Welcome to my digital space! I am a passionate **Computer Engineering** student, currently navigating through my **2nd Semester**. Joining this field wasn't just a choice; it was a goal I held from the very beginning, and now that I am here, I am dedicated to mastering the craft of engineering.
+Welcome to my digital space! I am a passionate **Computer Engineering** student,I am pursuing my graduation in Computer Engineering from UET Faisalabad. currently navigating through my **2nd Semester**. Joining this field wasn't just a choice; it was a goal I held from the very beginning, and now that I am here, I am dedicated to mastering the craft of engineering.
 
 ---
 
