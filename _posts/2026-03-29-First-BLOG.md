@@ -15,6 +15,8 @@ The most significant transition occurs when your ideas meet the reality of code.
 * **The Grit of Debugging:** I realized that coding isn't just about building "fancy apps"; it is about “Survival.” It requires true grit to face bugs every day, hard work to optimize code, and the mental strength to adapt to frustrating logical errors until they are solved.
 * **Algorithmic Growth:** Although the initial learning curve felt harsh, this pressure is what builds a programmer's mindset. Embracing these technical challenges has transformed me into a more focused, logical, and determined developer.
 
+![Desktop View](/First-BLOG/assets/img/syntax.jpg)
+
 ### 2. The Environmental Gap: Dream Landscape vs. Technical Focus
 We often dream of a lush, peaceful campus environment to inspire our studies, but sometimes the physical surroundings are much more modest and demanding.
 
