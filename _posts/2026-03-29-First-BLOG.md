@@ -18,7 +18,7 @@ The biggest shock occurs when your imagination meets real life. We often expect 
 * *The Power of Grit:* I realized that university life isn't just about fancy buildings; it is about “Survival.” It requires true grit, hard work, and the mental strength to adapt to difficult situations every single day.
 * *Positive Growth:* Although the reality felt harsh at first, this pressure is what builds character. Embracing these responsibilities has transformed me into a more focused and determined student.
 
-![Desktop View](/assets/img/adil.jpg)
+![Mental Shift](/assets/img/adil.jpg)
 
 ### 2. The Environmental Gap: Dream Landscape vs. Technical Focus
 We often dream of a lush, peaceful campus environment to inspire our studies, but sometimes the physical surroundings are much more modest and demanding.
